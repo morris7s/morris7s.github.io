@@ -94,8 +94,8 @@
         "Service Customers",
         "Utilized OpenTable system to manage seating"
       ]
-    },
-  ]
+    }
+  ],
   
   "references": [
     {
@@ -103,5 +103,4 @@
       "reference": ""
     }
   ]
-},
-]
+}
