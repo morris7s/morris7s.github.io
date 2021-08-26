@@ -22,36 +22,30 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "SeanMorris",
+        "url": "http://linkedin.com/in/SeanMorris"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "Seanmors",
+        "url": "http://instagram.com/seanmors"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Surfing",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        
       ]
     },
     {
-      "name": "data mining",
+      "name": "Gaming",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Football",
       "keywords": [
       ]
     }
